@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "titulo": "Fernando de Noronha (PE)",
+    "descricao": "Águas cristalinas, golfinhos e um dos cenários mais paradisíacos do mundo.",
+    "imagem": "imagens/fernandodenoronha.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Lençóis Maranhenses (MA)",
+    "descricao": "Dunas brancas e lagoas azul-turquesa que parecem um sonho.",
+    "imagem": "imagens/lencoismaranhanses.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Jericoacoara (CE)",
+    "descricao": "Pôr do sol inesquecível, praias selvagens e vibe única.",
+    "imagem": "imagens/jericoacoara.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Chapada Diamantina (BA)",
+    "descricao": "Cachoeiras, trilhas e paisagens que renovam a alma.",
+    "imagem": "imagens/chapada-diamantina.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Gramado (RS)",
+    "descricao": "Charme europeu, gastronomia incrível e clima romântico.",
+    "imagem": "imagens/gramado.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Foz do Iguaçu (PR)",
+    "descricao": "Sinta a força da natureza nas Cataratas do Iguaçu.",
+    "imagem": "imagens/fozdoiguaçu.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Bonito (MS)",
+    "descricao": "Mergulhos em rios transparentes e contato puro com a natureza.",
+    "imagem": "imagens/bonito.jpg"
+  },
+  {
+  "id": 8,
+  "titulo": "Salvador (BA)",
+  "descricao": "História viva, praias urbanas e a energia cultural mais marcante do Brasil.",
+  "imagem": "imagens/salvador.jpg"
+ }
+,
+  {
+    "id": 9,
+    "titulo": "Arraial do Cabo (RJ)",
+    "descricao": "Piscinas naturais e um mar de tirar o fôlego.",
+    "imagem": "imagens/arraialdocabo.jpg"
+  },
+
+  { "id": 10,
+    "titulo": "Maragogi (AL)",
+    "descricao": "O Caribe brasileiro com águas absurdamente azuis.",
+    "imagem": "imagens/maragogi.jpg"
+  },
+
+  {
+    "id": 11,
+    "titulo": "Natal (RN)",
+    "descricao": "Dunas, buggy e praias que parecem infinitas.",
+    "imagem": "imagens/natall.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Porto de Galinhas (PE)",
+    "descricao": "Águas calmas, jangadas e piscinas naturais.",
+    "imagem": "imagens/porto_degalinhas.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "Florianópolis (SC)",
+    "descricao": "Ilha completa: praias, trilhas e vida noturna.",
+    "imagem": "imagens/florianopolis.jpg"
+  },
+  {
+  "id": 14,
+  "titulo": "Morro de São Paulo (BA)",
+  "descricao": "Praias sem carros, clima tropical e dias que passam devagar.",
+  "imagem": "imagens/morrodesaopaulo.jpg"
+  },
+  {
+    "id": 15,
+    "titulo": "Chapada dos Veadeiros (GO)",
+    "descricao": "Energia única, cachoeiras e paisagens místicas.",
+    "imagem": "imagens/chapada-dos-veadeiros.jpg"
+  },
+  {
+    "id": 16,
+    "titulo": "Maceió (AL)",
+    "descricao": "Mar verde-esmeralda e piscinas naturais incríveis.",
+    "imagem": "imagens/maceio.webp"
+  },
+  {
+    "id": 17,
+    "titulo": "Recife & Olinda (PE)",
+    "descricao": "Cultura, história e praias no mesmo destino.",
+    "imagem": "imagens/olinda.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "São Miguel dos Milagres (AL)",
+    "descricao": "Tranquilidade, mar cristalino e zero pressa.",
+    "imagem": "imagens/sao-miguel-dos-milagres.jpg"
+  },
+  {
+    "id": 19,
+    "titulo": "Búzios (RJ)",
+    "descricao": "Charmosa, sofisticada e cheia de praias lindas.",
+    "imagem": "imagens/buzios.png"
+  },
+  {
+    "id": 20,
+    "titulo": "Campos do Jordão (SP)",
+    "descricao": "Clima de montanha e charme europeu no Brasil.",
+    "imagem": "imagens/campos-do-jordao.jpg"
+  },
+  {
+    "id": 21,
+    "titulo": "Alter do Chão (PA)",
+    "descricao": "Praias de água doce no coração da Amazônia, com areia branca e clima paradisíaco."
+  },
+  {
+    "id": 22,
+    "titulo": "Pipa (RN)",
+    "descricao": "Falésias coloridas, golfinhos e uma vibe jovem e descontraída."
+  },
+  {
+    "id": 23,
+    "titulo": "Ilha Grande (RJ)",
+    "descricao": "Natureza preservada, trilhas e praias selvagens de tirar o fôlego."
+  },
+  {
+    "id": 24,
+    "titulo": "Caldas Novas (GO)",
+    "descricao": "O maior complexo de águas termais do Brasil, ideal para relaxar."
+  },
+  {
+    "id": 25,
+    "titulo": "Balneário Camboriú (SC)",
+    "descricao": "Praias urbanas, vida noturna intensa e atrações modernas."
+  },
+  {
+    "id": 26,
+    "titulo": "Pantanal (MT/MS)",
+    "descricao": "Um dos maiores santuários de vida selvagem do planeta."
+  },
+  {
+    "id": 27,
+    "titulo": "São Luís (MA)",
+    "descricao": "Centro histórico, cultura rica e porta de entrada para os Lençóis Maranhenses."
+  },
+  {
+    "id": 28,
+    "titulo": "Trancoso (BA)",
+    "descricao": "Destino rústico e sofisticado, com praias tranquilas e charme único."
+  },
+  {
+    "id": 29,
+    "titulo": "Praia do Rosa (SC)",
+    "descricao": "Natureza preservada, boas ondas e clima acolhedor."
+  },
+  {
+    "id": 30,
+    "titulo": "João Pessoa (PB)",
+    "descricao": "Capital tranquila, praias urbanas e um dos pores do sol mais lindos do Brasil."
+  },
+  {
+    "id": 31,
+    "titulo": "Fortaleza (CE)",
+    "descricao": "Sol o ano inteiro, praias animadas e muita diversão."
+  },
+  {
+    "id": 32,
+    "titulo": "Belém (PA)",
+    "descricao": "Cultura amazônica, gastronomia única e história viva."
+  },
+  {
+    "id": 33,
+    "titulo": "Canela (RS)",
+    "descricao": "Cachoeiras impressionantes e clima serrano acolhedor."
+  },
+  {
+    "id": 34,
+    "titulo": "Ilha do Mel (PR)",
+    "descricao": "Destino rústico, tranquilo e cercado por natureza."
+  },
+  {
+    "id": 35,
+    "titulo": "São Thomé das Letras (MG)",
+    "descricao": "Mistério, paisagens naturais e energia alternativa."
+  },
+  {
+    "id": 36,
+    "titulo": "Paraty (RJ)",
+    "descricao": "Centro histórico preservado, ilhas paradisíacas e muito charme."
+  },
+  {
+    "id": 37,
+    "titulo": "Manaus (AM)",
+    "descricao": "Porta de entrada da Floresta Amazônica e rica em cultura."
+  },
+  {
+    "id": 38,
+    "titulo": "Ubatuba (SP)",
+    "descricao": "Mais de cem praias cercadas por mata atlântica."
+  },
+  {
+    "id": 39,
+    "titulo": "São Roque (SP)",
+    "descricao": "Rota do vinho, gastronomia e descanso perto da capital."
+  },
+  {
+    "id": 40,
+    "titulo": "Guarapari (ES)",
+    "descricao": "Praias famosas e águas conhecidas por propriedades terapêuticas."
+  },
+  {
+    "id": 41,
+    "titulo": "Rio de Janeiro (RJ)",
+    "descricao": "Cartões-postais icônicos, praias famosas e energia única."
+  },
+  {
+    "id": 42,
+    "titulo": "Curitiba (PR)",
+    "descricao": "Cidade moderna, organizada e cheia de áreas verdes."
+  },
+  {
+    "id": 43,
+    "titulo": "São Paulo (SP)",
+    "descricao": "Gastronomia, cultura e experiências sem fim."
+  },
+  {
+    "id": 44,
+    "titulo": "Vitória (ES)",
+    "descricao": "Praias urbanas, boa gastronomia e qualidade de vida."
+  },
+  {
+    "id": 45,
+    "titulo": "Blumenau (SC)",
+    "descricao": "Cultura alemã, arquitetura típica e festas tradicionais."
+  },
+  {
+    "id": 46,
+    "titulo": "Holambra (SP)",
+    "descricao": "Campos de flores, charme europeu e clima acolhedor."
+  },
+  {
+    "id": 47,
+    "titulo": "Canoa Quebrada (CE)",
+    "descricao": "Falésias coloridas, mar bonito e clima relax."
+  },
+  {
+    "id": 48,
+    "titulo": "Serra do Cipó (MG)",
+    "descricao": "Cachoeiras, trilhas e paisagens naturais incríveis."
+  },
+  {
+    "id": 49,
+    "titulo": "Delta do Parnaíba (PI)",
+    "descricao": "Um dos únicos deltas em mar aberto do mundo."
+  },
+  {
+    "id": 50,
+    "titulo": "Ilha de Marajó (PA)",
+    "descricao": "Natureza selvagem, cultura rica e tradições únicas."
+  }
+]
