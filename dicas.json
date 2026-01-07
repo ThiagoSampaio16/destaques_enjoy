@@ -1,0 +1,184 @@
+[
+ 
+  {
+  "id": 2,
+  "titulo": "Horário das refeições no Nordeste",
+  "descricao": "Em muitas cidades do Nordeste, o horário do almoço acontece mais cedo do que em outras regiões do Brasil, geralmente entre 11h e 13h. Esse costume está diretamente ligado ao clima quente e à rotina local, que prioriza atividades no início do dia. Após esse período, é comum que restaurantes fechem temporariamente ou passem a funcionar com cardápio reduzido. Para quem está viajando, entender esse hábito evita frustrações e longas buscas por locais abertos. Planejar o almoço dentro do horário local garante mais opções, atendimento mais rápido e comida mais fresca. Muitos pratos típicos regionais são preparados especialmente para o almoço. Adaptar-se a esse ritmo é uma forma simples de vivenciar a cultura local com mais autenticidade e tranquilidade.",
+  "imagem": "imagens_dicas/comidas-tipicas-nordeste.jpg"
+}
+,
+  {
+  "id": 3,
+  "categoria": "Informação útil sobre destinos",
+  "titulo": "O clima pode mudar rápido no mesmo dia",
+  "descricao": "Em muitos destinos brasileiros, o clima pode variar bastante ao longo do dia. Manhãs ensolaradas podem virar tardes chuvosas em poucos minutos. Regiões litorâneas e áreas de serra são ainda mais imprevisíveis. Levar uma capa de chuva ou casaco leve evita contratempos. Consultar a previsão ajuda, mas não garante tudo. Planejar atividades externas com flexibilidade é essencial. Passeios ao ar livre ficam melhores pela manhã. Atividades internas são boas opções para dias instáveis. Mudanças rápidas fazem parte da experiência local. Observar o céu ajuda a antecipar o clima. Moradores costumam prever o tempo com mais precisão. O vento pode indicar chuva ou mudança de temperatura. Umidade influencia a sensação térmica. Roupas leves e práticas fazem diferença. Calçados adequados evitam desconforto. Aceitar o clima reduz frustrações. Adaptação faz parte da viagem. Nem todo plano precisa ser rígido. O inesperado também cria boas histórias. Viajar é aprender a lidar com o tempo do lugar.",
+  "imagem": "imagens_dicas/manhã-de-sol.jpg"
+}
+,
+  {
+  "id": 4,
+  "categoria": "Informação útil sobre destinos",
+  "titulo": "Cartão ou dinheiro? Nem sempre só cartão resolve",
+  "descricao": "Embora o uso de cartões seja comum nas grandes cidades do Brasil, em destinos menores ou mais afastados essa realidade muda bastante. Praias tranquilas, vilas históricas e comunidades locais muitas vezes aceitam apenas dinheiro em espécie. Passeios de barco, feirinhas, barracas de praia e pequenos restaurantes podem não ter maquininhas de cartão. Além disso, quedas de sinal de internet são frequentes em áreas remotas. Caixas eletrônicos também podem ser raros ou inexistentes nesses locais. Levar uma quantia reservada evita imprevistos e perda de tempo. O dinheiro facilita negociações diretas e pagamentos rápidos. Planejar esse detalhe com antecedência traz mais segurança e liberdade durante a viagem. Assim, o viajante aproveita melhor a experiência sem preocupações desnecessárias.",
+  "imagem": "imagens_dicas/dinheiro.jpg"
+}
+,
+  {
+  "id": 5,
+  "categoria": "Truque para economizar",
+  "titulo": "Guias locais: experiência melhor e mais barata",
+  "descricao": "Contratar guias locais costuma ser mais barato do que fechar passeios com grandes agências de turismo. Além do preço mais acessível, a experiência tende a ser muito mais autêntica e personalizada. Moradores conhecem histórias, lendas, atalhos e curiosidades que não aparecem nos roteiros tradicionais. Eles também sabem os melhores horários para visitar atrações e evitar filas ou aglomerações. Outro ponto positivo é a flexibilidade do passeio, que pode ser adaptado ao perfil do viajante. O dinheiro pago fica na própria comunidade, incentivando o turismo sustentável e a economia local. Em muitos destinos, basta perguntar na pousada ou a comerciantes para encontrar boas indicações. Essa escolha transforma o passeio em algo único, mais humano e memorável.",
+  "imagem": "imagens_dicas/guia.jpg"
+}
+,
+  {
+  "id": 6,
+  "categoria": "Curiosidade cultural",
+  "titulo": "O pôr do sol como ritual brasileiro",
+  "descricao": "Em várias cidades do Brasil, o pôr do sol é muito mais do que um fenômeno natural — ele se transforma em um verdadeiro ritual coletivo. Pessoas se reúnem em praças, praias, mirantes e orlas apenas para observar o céu mudar de cor. Em destinos como Fortaleza, João Pessoa, Salvador e Arraial do Cabo, esse momento costuma ser acompanhado por música ao vivo, aplausos e silêncio contemplativo. Para muitos brasileiros, assistir ao pôr do sol é uma forma de desacelerar e agradecer pelo dia. Turistas acabam se integrando naturalmente a esse costume local. Não há custo algum, apenas presença e atenção. Chegar alguns minutos antes garante um bom lugar e uma experiência ainda mais especial.",
+  "imagem": "imagens_dicas/por-do-sol.jpg"
+}
+,
+  {
+  "id": 7,
+  "categoria": "Dica prática de viagem",
+  "titulo": "Protetor solar não é só para a praia",
+  "descricao": "Muitos viajantes associam o uso do protetor solar apenas aos dias de praia, mas o sol brasileiro é intenso em praticamente qualquer atividade ao ar livre. Caminhadas longas, passeios por centros históricos, trilhas urbanas e até filas para atrações expõem a pele por horas. Mesmo em dias nublados, a radiação solar continua presente. Usar protetor solar ajuda a evitar queimaduras, insolação e descamação da pele. Além disso, previne o envelhecimento precoce e manchas causadas pelo sol. Ter um frasco pequeno na mochila facilita a reaplicação ao longo do dia. Esse cuidado simples garante mais conforto e energia para aproveitar melhor cada momento da viagem.",
+  "imagem": "imagens_dicas/protetor-solar.jpg"
+}
+,
+  {
+  "id": 8,
+  "categoria": "Costume local",
+  "titulo": "A importância do bom dia no Brasil",
+  "descricao": "No Brasil, cumprimentar as pessoas vai muito além da educação básica — é uma forma de criar conexão e proximidade. Um simples “bom dia” abre portas, quebra o gelo e transmite simpatia. Em mercados, pousadas, restaurantes e comércios locais, esse gesto costuma ser bem recebido. Muitas vezes, ele rende sorrisos, conversas espontâneas e até dicas valiosas sobre o destino. Brasileiros valorizam muito o contato humano e a cordialidade no dia a dia. Para quem viaja, adotar esse costume facilita interações e evita barreiras culturais. Demonstrar gentileza gera reciprocidade. Pequenos gestos transformam a experiência e tornam a viagem mais acolhedora e memorável.",
+  "imagem": "imagens_dicas/bom-dia.jpg"
+}
+,
+  {
+  "id": 9,
+  "categoria": "Informação útil sobre destinos",
+  "titulo": "Viajar fora da alta temporada",
+  "descricao": "Viajar fora da alta temporada é uma das decisões mais inteligentes para quem quer economizar e aproveitar melhor o destino. Nesse período, os preços de passagens, hospedagens e passeios costumam cair consideravelmente. Além da economia, os destinos ficam mais tranquilos, com menos filas e menos aglomerações. Isso permite explorar pontos turísticos com mais calma e tirar fotos sem pressa. O atendimento em hotéis, restaurantes e atrações também tende a ser melhor, já que os profissionais estão menos sobrecarregados. Em muitos destinos brasileiros, o clima continua agradável mesmo fora da alta temporada. Regiões de sol constante, como o Nordeste, oferecem boas experiências o ano inteiro. Planejar a viagem em datas alternativas traz mais conforto, flexibilidade e qualidade. Viajar bem não é só sobre quando ir, mas sobre como aproveitar.",
+  "imagem": "imagens_dicas/temporada.jpg"
+}
+,
+  {
+  "id": 10,
+  "categoria": "Truque para economizar",
+  "titulo": "Onde os moradores comem",
+  "descricao": "Restaurantes frequentados por moradores locais costumam ser uma das melhores descobertas de qualquer viagem. Esses lugares geralmente oferecem comida mais saborosa, porções generosas e preços muito mais justos. Diferente dos restaurantes turísticos, eles prezam pela qualidade diária e pelo cliente recorrente. Normalmente ficam fora das áreas mais movimentadas, exigindo apenas uma pequena caminhada. Perguntar a um morador, motorista de aplicativo ou recepcionista de hotel é a forma mais eficaz de encontrá-los. Além da economia, a experiência gastronômica se torna mais autêntica. Muitos desses restaurantes servem pratos típicos que não aparecem nos cardápios turísticos. Comer onde os locais comem é conhecer a cultura pelo paladar. E, muitas vezes, esses lugares se tornam a melhor lembrança da viagem.",
+  "imagem": "imagens_dicas/restaurante.jpg"
+}
+,
+  {
+  "id": 11,
+  "categoria": "Curiosidade cultural",
+  "titulo": "Festas populares revelam a alma do destino",
+  "descricao": "As festas populares revelam muito mais do que momentos de diversão: elas mostram a verdadeira identidade cultural de um destino. É nelas que música, dança, religiosidade e gastronomia se encontram. Muitas dessas celebrações acontecem em praças, ruas e espaços abertos, com entrada gratuita. Para o viajante, participar de uma festa local é viver o lugar de dentro para fora. Cada região do Brasil possui tradições únicas, ligadas à sua história e ao seu povo. Além do entretenimento, essas festas criam conexões genuínas com os moradores. Planejar a viagem considerando o calendário cultural pode transformar completamente a experiência. O Zé Turi pode indicar festas populares próximas ao seu destino e às datas da sua viagem. Assim, você não perde nenhuma experiência autêntica e vive o melhor da cultura local.",
+  "imagem": "imagens_dicas/festa-junina.jpg"
+}
+,
+  {
+  "id": 12,
+  "categoria": "Dica prática de viagem",
+  "titulo": "Planejamento flexível faz a viagem fluir",
+  "descricao": "Planejar uma viagem é essencial, mas manter flexibilidade faz toda a diferença na experiência. Imprevistos acontecem e, muitas vezes, se transformam nos melhores momentos da viagem. Ter horários muito engessados pode gerar estresse e frustração. Quando o roteiro é mais leve, fica mais fácil aceitar convites, seguir dicas de moradores e explorar lugares fora do plano inicial. A flexibilidade permite desacelerar e aproveitar o presente. Além disso, o clima, o cansaço e o ritmo do destino podem pedir ajustes no dia a dia. Um bom planejamento serve como guia, não como prisão. O Zé Turi ajuda a reorganizar o roteiro em tempo real, sugerindo alternativas e ajustes conforme sua viagem acontece. Assim, você mantém o controle sem perder a liberdade de viver o destino.",
+  "imagem": "imagens_dicas/planejar-viagem.jpg"
+}
+,
+  {
+  "id": 13,
+  "categoria": "Curiosidade cultural",
+  "titulo": "Feiras livres contam a história do lugar",
+  "descricao": "As feiras livres são um dos espaços mais autênticos da cultura brasileira. Nelas, é possível observar hábitos, sotaques e tradições que revelam a verdadeira identidade do destino. Os feirantes costumam conhecer profundamente a região e gostam de compartilhar histórias, dicas e curiosidades com quem demonstra interesse. Frutas, temperos e pratos típicos mostram muito sobre a culinária local e os costumes do dia a dia. Os preços geralmente são mais acessíveis e os produtos mais frescos. Caminhar por uma feira é um passeio sensorial, cheio de cores, cheiros e sons. Para o viajante, é uma oportunidade de aprender vivendo. O Zé Turi pode indicar feiras tradicionais próximas e ajudar você a encaixar essa experiência no melhor horário do seu roteiro.",
+  "imagem": "imagens_dicas/feira-livre.jpeg"
+}
+,
+  {
+  "id": 14,
+  "categoria": "Dica prática de viagem",
+  "titulo": "Use transporte público ao menos uma vez",
+  "descricao": "Utilizar o transporte público durante a viagem é uma forma prática de entender o ritmo real da cidade. Ônibus, metrôs, trens ou barcas revelam rotinas, costumes e até paisagens que passam despercebidas em trajetos turísticos. Além de mais econômico, esse tipo de deslocamento aproxima o viajante da vida local. Muitas vezes, o caminho se transforma em parte do passeio, rendendo boas observações e histórias. É comum descobrir bairros interessantes, feiras e praças fora do roteiro tradicional. Com atenção aos horários e rotas, a experiência se torna segura e tranquila. Para quem não conhece bem a cidade, o Zé Turi pode ajudar indicando as melhores linhas, horários e alternativas para cada destino do seu roteiro.",
+  "imagem": "imagens_dicas/transporte.jpg"
+}
+,
+  {
+  "id": 15,
+  "categoria": "Costume local",
+  "titulo": "O café como momento social",
+  "descricao": "Em muitas regiões do Brasil, o café vai muito além de uma simples bebida. Ele representa pausa, conversa e acolhimento, sendo um convite informal para criar conexões. Em pousadas, pequenos comércios e até na casa de moradores, oferecer café é sinal de hospitalidade e respeito. Esse momento costuma vir acompanhado de histórias, risadas e dicas valiosas sobre o destino. Para o viajante, aceitar um café é uma forma de se aproximar da cultura local. Não é sobre pressa, mas sobre presença. Sentar, ouvir e observar faz parte da experiência. O Zé Turi pode te ajudar a descobrir cafés tradicionais e lugares onde esse costume é valorizado no seu destino.",
+  "imagem": "imagens_dicas/cafe.jpg"
+}
+,
+  {
+  "id": 16,
+  "categoria": "Informação útil sobre destinos",
+  "titulo": "Nem todo feriado é igual em todo lugar",
+  "descricao": "Além dos feriados nacionais, muitas cidades brasileiras possuem feriados municipais ou estaduais que impactam diretamente a rotina local. Nesses dias, museus, comércios, mercados e serviços podem funcionar em horários reduzidos ou até fechar. O transporte público também costuma operar com alterações. Para o viajante desatento, isso pode gerar frustração ou atrasos no roteiro. Por outro lado, alguns feriados dão origem a festas populares, celebrações religiosas e eventos culturais únicos. Planejar com antecedência permite evitar contratempos e aproveitar melhor essas oportunidades. O Zé Turi pode informar os feriados locais do seu destino e sugerir atividades compatíveis com cada data.",
+  "imagem": "imagens/feriado-local.jpg"
+}
+,
+  {
+  "id": 17,
+  "categoria": "Dica prática de viagem",
+  "titulo": "Tenha um roteiro, mas não siga tudo ao pé da letra",
+  "descricao": "Planejar um roteiro antes da viagem é fundamental para aproveitar melhor o tempo e evitar deslocamentos desnecessários. No entanto, seguir cada passo de forma rígida pode transformar a experiência em algo cansativo e engessado. Viagens também são feitas de encontros inesperados, mudanças de clima e descobertas fora do plano inicial. Muitas vezes, uma indicação de um morador local leva a um passeio mais marcante do que aquele famoso ponto turístico. Reservar espaços livres no dia permite aproveitar essas oportunidades sem culpa. Além disso, imprevistos fazem parte do caminho e saber lidar com eles reduz o estresse. Um roteiro flexível ajuda a respeitar seu ritmo físico e emocional durante a viagem. Dias mais cansativos pedem pausas, enquanto dias leves pedem exploração. Ajustar planos é sinal de inteligência, não de desorganização. Viajar bem é encontrar equilíbrio entre organização e liberdade. O Zé Turi ajuda justamente nisso: ele cria roteiros personalizados e adaptáveis, sugerindo alternativas quando algo muda e garantindo que você aproveite o melhor do destino sem pressão.",
+  "imagem": "imagens/roteiro-flexivel.jpg"
+}
+,
+  {
+  "id": 18,
+  "categoria": "Curiosidade cultural",
+  "titulo": "Nomes de ruas guardam histórias antigas",
+  "descricao": "Os nomes de ruas, avenidas e praças carregam fragmentos importantes da história de cada cidade. Muitos deles homenageiam personagens históricos, líderes políticos, artistas ou acontecimentos marcantes do passado. Outros fazem referência a profissões antigas, atividades comerciais ou características naturais que já nem existem mais. Prestar atenção nessas placas transforma uma simples caminhada em uma verdadeira aula de história ao ar livre. Em cidades históricas, é comum encontrar ruas com nomes curiosos que despertam perguntas e reflexões. Perguntar a um morador sobre a origem desses nomes pode render histórias interessantes e pouco conhecidas. Esse hábito ajuda o viajante a compreender melhor o contexto cultural do destino. Além disso, cria uma conexão mais profunda com o lugar visitado. Observar detalhes assim faz a viagem ir além do visual. O Zé Turi pode ajudar a explicar o significado de nomes famosos e sugerir caminhadas temáticas para você descobrir a cidade através de suas histórias.",
+  "imagem": "imagens/nomes-de-ruas.jpg"
+}
+,
+  {
+  "id": 19,
+  "categoria": "Dica prática de viagem",
+  "titulo": "Tenha sempre uma cópia dos documentos",
+  "descricao": "Ter uma cópia dos documentos é uma das precauções mais simples e importantes durante uma viagem. Em caso de perda, roubo ou extravio, essa atitude evita grandes transtornos. Cópias facilitam o atendimento em hotéis, aeroportos, delegacias e serviços de transporte. O ideal é manter versões digitais no celular e também salvas na nuvem. Assim, mesmo sem o aparelho em mãos, os arquivos continuam acessíveis. Levar uma cópia física separada da original também é uma boa estratégia. Documentos como RG, CPF, passaporte e carteira de motorista merecem atenção especial. Essa organização transmite mais segurança e agilidade em situações inesperadas. Muitos viajantes só percebem a importância disso quando já é tarde. Planejar esse detalhe antes de sair de casa reduz o estresse durante a viagem. Segurança não é excesso de cuidado, é prevenção inteligente. Pequenas atitudes como essa fazem toda a diferença na experiência. Viajar tranquilo é tão importante quanto escolher o destino certo.",
+  "imagem": "imagens/documentos-viagem.jpg"
+}
+,
+  {
+  "id": 20,
+  "categoria": "Costume local",
+  "titulo": "O ritmo da cidade muda à tarde",
+  "descricao": "O Zé Turi já te prepara: em muitas cidades brasileiras o ritmo desacelera no início da tarde, principalmente nas regiões mais quentes do país. Depois do almoço, o sol forte influencia diretamente a rotina local. Alguns comércios fecham por algumas horas e o movimento nas ruas diminui bastante. Esse não é um sinal de descuido, mas sim um costume cultural bem enraizado. Muitas pessoas usam esse período para descanso ou atividades mais leves. Para o viajante, insistir em passeios intensos pode gerar cansaço desnecessário. Aproveitar ambientes fechados costuma ser uma escolha mais inteligente. Cafés, museus e locais climatizados ficam mais agradáveis nesse horário. Planejar pausas evita frustração no roteiro. Entender o ritmo local ajuda a aproveitar melhor o destino. Cada cidade tem sua própria dinâmica. Ignorar isso pode atrapalhar a experiência. Viajar também é observar e se adaptar. O Zé Turi recomenda flexibilidade. Ajustar horários torna tudo mais leve. Não é perder tempo, é ganhar qualidade. Respeitar o tempo do lugar é sinal de viajante atento. Esse detalhe muda completamente a experiência. Quem entende isso viaja melhor. E o Zé Turi tá aqui pra te lembrar disso.",
+  "imagem": "imagens/ritmo-da-cidade.jpg"
+}
+
+,
+  {
+  "id": 21,
+  "categoria": "Informação útil sobre destinos",
+  "titulo": "Nem toda praia é boa para banho",
+  "descricao": "Nem toda praia bonita é segura para entrar no mar. Algumas são ideais apenas para contemplação e fotos. Correntes fortes podem surgir mesmo em dias de sol. O mar aberto costuma ter ondas mais perigosas. Pedras submersas representam riscos invisíveis. Muitos acidentes acontecem por falta de atenção. Observar a força das ondas é essencial. A cor da água também pode indicar perigo. Placas de sinalização não devem ser ignoradas. Conversar com moradores ajuda muito. Pescadores conhecem bem o comportamento do mar. Praias seguras geralmente têm mais movimento. Locais vazios exigem cuidado redobrado. Respeitar o mar é fundamental. Segurança vem antes da diversão. Um banho mal calculado pode virar problema. Escolher bem onde entrar garante tranquilidade. Curtir a paisagem também é aproveitar o destino. Nem toda experiência precisa ser dentro d’água. Informação evita riscos desnecessários.",
+  "imagem": "imagens/praia-segura.jpg"
+},
+  {
+  "id": 22,
+  "categoria": "Truque para economizar",
+  "titulo": "Passeios gratuitos quase sempre existem",
+  "descricao": "Quase toda cidade oferece passeios gratuitos ou com custo muito baixo. Parques públicos são ótimos para relaxar e observar a rotina local. Centros históricos permitem conhecer a cidade caminhando. Mirantes oferecem vistas incríveis sem custo algum. Praças costumam ter feiras, música e eventos culturais. Museus têm dias ou horários gratuitos. Igrejas e construções antigas guardam histórias riquíssimas. Trilhas urbanas e naturais são opções acessíveis. Caminhar sem pressa revela detalhes que passam despercebidos. Perguntar a moradores rende ótimas dicas. Guias locais informais costumam ajudar bastante. Muitas experiências não aparecem em roteiros tradicionais. Gastar pouco não significa aproveitar menos. O contato com o cotidiano local enriquece a viagem. Planejar bem evita gastos desnecessários. Pesquisar antes faz diferença no orçamento. Passeios simples criam boas memórias. A cidade se revela nos detalhes. Viajar é mais sobre vivência do que consumo. Aproveitar o que é gratuito também é viajar bem.",
+  "imagem": "imagens/passeios-gratuitos.jpg"
+},
+  {
+  "id": 23,
+  "categoria": "Curiosidade cultural",
+  "titulo": "A música muda de região para região",
+  "descricao": "O Brasil possui uma diversidade musical impressionante que varia de região para região. Cada ritmo carrega histórias, costumes e influências culturais específicas. No Nordeste, o forró, o baião e o xote marcam presença no cotidiano. No Sudeste, o samba e o pagode refletem a vida urbana e popular. No Norte, ritmos como carimbó e guitarrada revelam a força amazônica. O Centro-Oeste traz influências sertanejas ligadas ao campo. No Sul, a música regional dialoga com tradições europeias. Ouvir músicas locais durante a viagem ajuda a entender o lugar visitado. Letras falam de paisagens, sentimentos e vivências reais. Apresentações ao vivo acontecem em praças, feiras e bares. Muitos eventos musicais são gratuitos e abertos ao público. A música aproxima moradores e visitantes. Prestar atenção aos sons do ambiente enriquece a experiência. Cada destino tem sua própria trilha sonora. Descobrir novos artistas amplia o repertório cultural. A música também influencia a dança e a festa local. Ritmos regionais fortalecem a identidade do povo. Viajar é também ouvir com atenção. A cultura se manifesta pelos sons. A música transforma a forma de enxergar o destino.",
+  "imagem": "imagens/musica-regional.jpg"
+},
+  {
+  "id": 24,
+  "categoria": "Dica prática de viagem",
+  "titulo": "Menos bagagem, mais liberdade",
+  "descricao": "Viajar com menos bagagem torna a experiência mais leve e prática desde o início. Malas menores facilitam deslocamentos em aeroportos, rodoviárias e hotéis. Caminhar por ruas, escadas e calçadas fica muito mais simples. Roupas versáteis permitem múltiplas combinações com menos peças. Priorizar itens essenciais evita excessos desnecessários. Menos bagagem reduz o risco de extravio. Também economiza tempo no check-in e no desembarque. Evita taxas extras em companhias aéreas. Abre espaço para compras e lembranças do destino. Facilita o uso de transporte público. Torna mudanças de hospedagem menos cansativas. Ajuda a manter a organização durante a viagem. Estimula escolhas mais conscientes. Reduz o estresse em imprevistos. Permite mais mobilidade em passeios espontâneos. Facilita viagens curtas e longas. Incentiva um estilo de viagem mais livre. Menos peso significa mais conforto. A experiência fica mais fluida. Liberdade também cabe dentro da mochila.",
+  "imagem": "imagens/mala-leve.jpg"
+}
+
+]
