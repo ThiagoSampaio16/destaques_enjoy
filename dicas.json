@@ -116,7 +116,7 @@
   "categoria": "Informação útil sobre destinos",
   "titulo": "Nem todo feriado é igual em todo lugar",
   "descricao": "Além dos feriados nacionais, muitas cidades brasileiras possuem feriados municipais ou estaduais que impactam diretamente a rotina local. Nesses dias, museus, comércios, mercados e serviços podem funcionar em horários reduzidos ou até fechar. O transporte público também costuma operar com alterações. Para o viajante desatento, isso pode gerar frustração ou atrasos no roteiro. Por outro lado, alguns feriados dão origem a festas populares, celebrações religiosas e eventos culturais únicos. Planejar com antecedência permite evitar contratempos e aproveitar melhor essas oportunidades. O Zé Turi pode informar os feriados locais do seu destino e sugerir atividades compatíveis com cada data.",
-  "imagem": "imagens/feriado-local.jpg"
+  "imagem": "imagens_dicas/feriado.jpg"
 }
 ,
   {
@@ -124,7 +124,7 @@
   "categoria": "Dica prática de viagem",
   "titulo": "Tenha um roteiro, mas não siga tudo ao pé da letra",
   "descricao": "Planejar um roteiro antes da viagem é fundamental para aproveitar melhor o tempo e evitar deslocamentos desnecessários. No entanto, seguir cada passo de forma rígida pode transformar a experiência em algo cansativo e engessado. Viagens também são feitas de encontros inesperados, mudanças de clima e descobertas fora do plano inicial. Muitas vezes, uma indicação de um morador local leva a um passeio mais marcante do que aquele famoso ponto turístico. Reservar espaços livres no dia permite aproveitar essas oportunidades sem culpa. Além disso, imprevistos fazem parte do caminho e saber lidar com eles reduz o estresse. Um roteiro flexível ajuda a respeitar seu ritmo físico e emocional durante a viagem. Dias mais cansativos pedem pausas, enquanto dias leves pedem exploração. Ajustar planos é sinal de inteligência, não de desorganização. Viajar bem é encontrar equilíbrio entre organização e liberdade. O Zé Turi ajuda justamente nisso: ele cria roteiros personalizados e adaptáveis, sugerindo alternativas quando algo muda e garantindo que você aproveite o melhor do destino sem pressão.",
-  "imagem": "imagens/roteiro-flexivel.jpg"
+  "imagem": "imagens_dicas/planejar.jpeg"
 }
 ,
   {
@@ -132,7 +132,7 @@
   "categoria": "Curiosidade cultural",
   "titulo": "Nomes de ruas guardam histórias antigas",
   "descricao": "Os nomes de ruas, avenidas e praças carregam fragmentos importantes da história de cada cidade. Muitos deles homenageiam personagens históricos, líderes políticos, artistas ou acontecimentos marcantes do passado. Outros fazem referência a profissões antigas, atividades comerciais ou características naturais que já nem existem mais. Prestar atenção nessas placas transforma uma simples caminhada em uma verdadeira aula de história ao ar livre. Em cidades históricas, é comum encontrar ruas com nomes curiosos que despertam perguntas e reflexões. Perguntar a um morador sobre a origem desses nomes pode render histórias interessantes e pouco conhecidas. Esse hábito ajuda o viajante a compreender melhor o contexto cultural do destino. Além disso, cria uma conexão mais profunda com o lugar visitado. Observar detalhes assim faz a viagem ir além do visual. O Zé Turi pode ajudar a explicar o significado de nomes famosos e sugerir caminhadas temáticas para você descobrir a cidade através de suas histórias.",
-  "imagem": "imagens/nomes-de-ruas.jpg"
+  "imagem": "imagens_dicas/nome-de-rua.jpg"
 }
 ,
   {
@@ -148,7 +148,7 @@
   "categoria": "Costume local",
   "titulo": "O ritmo da cidade muda à tarde",
   "descricao": "O Zé Turi já te prepara: em muitas cidades brasileiras o ritmo desacelera no início da tarde, principalmente nas regiões mais quentes do país. Depois do almoço, o sol forte influencia diretamente a rotina local. Alguns comércios fecham por algumas horas e o movimento nas ruas diminui bastante. Esse não é um sinal de descuido, mas sim um costume cultural bem enraizado. Muitas pessoas usam esse período para descanso ou atividades mais leves. Para o viajante, insistir em passeios intensos pode gerar cansaço desnecessário. Aproveitar ambientes fechados costuma ser uma escolha mais inteligente. Cafés, museus e locais climatizados ficam mais agradáveis nesse horário. Planejar pausas evita frustração no roteiro. Entender o ritmo local ajuda a aproveitar melhor o destino. Cada cidade tem sua própria dinâmica. Ignorar isso pode atrapalhar a experiência. Viajar também é observar e se adaptar. O Zé Turi recomenda flexibilidade. Ajustar horários torna tudo mais leve. Não é perder tempo, é ganhar qualidade. Respeitar o tempo do lugar é sinal de viajante atento. Esse detalhe muda completamente a experiência. Quem entende isso viaja melhor. E o Zé Turi tá aqui pra te lembrar disso.",
-  "imagem": "imagens/ritmo-da-cidade.jpg"
+  "imagem": "imagens_dicas/cidade-tarde.jpg"
 }
 
 ,
@@ -157,28 +157,83 @@
   "categoria": "Informação útil sobre destinos",
   "titulo": "Nem toda praia é boa para banho",
   "descricao": "Nem toda praia bonita é segura para entrar no mar. Algumas são ideais apenas para contemplação e fotos. Correntes fortes podem surgir mesmo em dias de sol. O mar aberto costuma ter ondas mais perigosas. Pedras submersas representam riscos invisíveis. Muitos acidentes acontecem por falta de atenção. Observar a força das ondas é essencial. A cor da água também pode indicar perigo. Placas de sinalização não devem ser ignoradas. Conversar com moradores ajuda muito. Pescadores conhecem bem o comportamento do mar. Praias seguras geralmente têm mais movimento. Locais vazios exigem cuidado redobrado. Respeitar o mar é fundamental. Segurança vem antes da diversão. Um banho mal calculado pode virar problema. Escolher bem onde entrar garante tranquilidade. Curtir a paisagem também é aproveitar o destino. Nem toda experiência precisa ser dentro d’água. Informação evita riscos desnecessários.",
-  "imagem": "imagens/praia-segura.jpg"
+  "imagem": "imagens_dicas/praia-impropria.jpg"
 },
   {
   "id": 22,
   "categoria": "Truque para economizar",
   "titulo": "Passeios gratuitos quase sempre existem",
   "descricao": "Quase toda cidade oferece passeios gratuitos ou com custo muito baixo. Parques públicos são ótimos para relaxar e observar a rotina local. Centros históricos permitem conhecer a cidade caminhando. Mirantes oferecem vistas incríveis sem custo algum. Praças costumam ter feiras, música e eventos culturais. Museus têm dias ou horários gratuitos. Igrejas e construções antigas guardam histórias riquíssimas. Trilhas urbanas e naturais são opções acessíveis. Caminhar sem pressa revela detalhes que passam despercebidos. Perguntar a moradores rende ótimas dicas. Guias locais informais costumam ajudar bastante. Muitas experiências não aparecem em roteiros tradicionais. Gastar pouco não significa aproveitar menos. O contato com o cotidiano local enriquece a viagem. Planejar bem evita gastos desnecessários. Pesquisar antes faz diferença no orçamento. Passeios simples criam boas memórias. A cidade se revela nos detalhes. Viajar é mais sobre vivência do que consumo. Aproveitar o que é gratuito também é viajar bem.",
-  "imagem": "imagens/passeios-gratuitos.jpg"
+  "imagem": "imagens_dicas/passeio-gratis.jpg"
 },
   {
   "id": 23,
   "categoria": "Curiosidade cultural",
   "titulo": "A música muda de região para região",
   "descricao": "O Brasil possui uma diversidade musical impressionante que varia de região para região. Cada ritmo carrega histórias, costumes e influências culturais específicas. No Nordeste, o forró, o baião e o xote marcam presença no cotidiano. No Sudeste, o samba e o pagode refletem a vida urbana e popular. No Norte, ritmos como carimbó e guitarrada revelam a força amazônica. O Centro-Oeste traz influências sertanejas ligadas ao campo. No Sul, a música regional dialoga com tradições europeias. Ouvir músicas locais durante a viagem ajuda a entender o lugar visitado. Letras falam de paisagens, sentimentos e vivências reais. Apresentações ao vivo acontecem em praças, feiras e bares. Muitos eventos musicais são gratuitos e abertos ao público. A música aproxima moradores e visitantes. Prestar atenção aos sons do ambiente enriquece a experiência. Cada destino tem sua própria trilha sonora. Descobrir novos artistas amplia o repertório cultural. A música também influencia a dança e a festa local. Ritmos regionais fortalecem a identidade do povo. Viajar é também ouvir com atenção. A cultura se manifesta pelos sons. A música transforma a forma de enxergar o destino.",
-  "imagem": "imagens/musica-regional.jpg"
+  "imagem": "imagens_dicas/musica.jpg"
 },
   {
   "id": 24,
   "categoria": "Dica prática de viagem",
   "titulo": "Menos bagagem, mais liberdade",
   "descricao": "Viajar com menos bagagem torna a experiência mais leve e prática desde o início. Malas menores facilitam deslocamentos em aeroportos, rodoviárias e hotéis. Caminhar por ruas, escadas e calçadas fica muito mais simples. Roupas versáteis permitem múltiplas combinações com menos peças. Priorizar itens essenciais evita excessos desnecessários. Menos bagagem reduz o risco de extravio. Também economiza tempo no check-in e no desembarque. Evita taxas extras em companhias aéreas. Abre espaço para compras e lembranças do destino. Facilita o uso de transporte público. Torna mudanças de hospedagem menos cansativas. Ajuda a manter a organização durante a viagem. Estimula escolhas mais conscientes. Reduz o estresse em imprevistos. Permite mais mobilidade em passeios espontâneos. Facilita viagens curtas e longas. Incentiva um estilo de viagem mais livre. Menos peso significa mais conforto. A experiência fica mais fluida. Liberdade também cabe dentro da mochila.",
-  "imagem": "imagens/mala-leve.jpg"
+  "imagem": "imagens_dicas/bagagem.jpg"
+},
+{
+  "id": 25,
+  "categoria": "Informação útil sobre destinos",
+  "titulo": "Em Salvador, o dia começa cedo",
+  "descricao": "Em Salvador, muitas atividades começam cedo por causa do calor intenso ao longo do dia. Passeios ao ar livre rendem mais pela manhã. O Centro Histórico fica mais tranquilo antes do meio-dia. À tarde, o sol costuma ser mais forte e o ritmo desacelera. Restaurantes tradicionais servem almoço mais cedo. O trânsito aumenta no fim da tarde. Planejar o dia respeitando esse ritmo melhora a experiência. Moradores aproveitam as primeiras horas do dia. Caminhadas ficam mais agradáveis nesse período. Praias urbanas são mais vazias pela manhã. Museus funcionam melhor antes do pico de visitantes. Feiras livres acontecem cedo. Fotografia rende melhores luzes. Evita-se o cansaço excessivo. O calor influencia o humor e o ritmo local. Descansar à tarde é comum. O pôr do sol fecha o dia com energia renovada. Entender esse ciclo evita frustrações. O destino flui melhor quando o viajante se adapta. Salvador ensina a respeitar o tempo.",
+  "imagem": "imagens_dicas/salvador-.jpg"
+},
+{
+  "id": 26,
+  "categoria": "Dica prática de viagem",
+  "titulo": "O vento muda os planos em Fortaleza",
+  "descricao": "Em Fortaleza, o vento constante influencia muitos passeios. Pela manhã, o mar costuma ser mais calmo. À tarde, o vento aumenta e favorece esportes como kitesurf. Barracas da Praia do Futuro ficam mais agradáveis cedo. Passeios de buggy dependem bastante do clima. Roupas leves ajudam, mas um corta-vento é útil. Chapéu e óculos fazem diferença. Caminhadas longas rendem mais no início do dia. O sol reflete forte na areia. Protetor solar é indispensável. Moradores planejam atividades conforme o vento. Fotos ficam melhores pela manhã. O clima dita o ritmo da cidade. Entender isso evita desconforto. Ajustar horários melhora a experiência. Nem todo plano funciona à tarde. A natureza comanda o roteiro. Flexibilidade é essencial. Fortaleza recompensa quem se adapta. O vento faz parte da identidade local.",
+  "imagem": "imagens_dicas/fortaleza.jpg"
+},
+{
+  "id": 27,
+  "categoria": "Curiosidade cultural",
+  "titulo": "A praia é extensão da casa no Rio",
+  "descricao": "No Rio de Janeiro, a praia funciona como uma extensão da vida cotidiana. Pessoas trabalham, se exercitam e socializam à beira-mar. O dia começa cedo com caminhadas e esportes. Barracas viram pontos de encontro fixos. Cada trecho da praia tem seu próprio perfil. O carioca passa horas no mesmo lugar. Conversas surgem naturalmente. A praia não é só lazer, é convivência. Ficar muito tempo sentado é normal. O pôr do sol marca a transição do dia. Música e vendedores fazem parte do cenário. Entender esse comportamento evita estranhamento. O turista se sente mais integrado ao observar. Respeitar o espaço coletivo é essencial. A informalidade é regra. O ritmo é descontraído. A praia dita o humor da cidade. Participar disso muda a experiência. O Rio se revela na areia. A cultura acontece à beira-mar.",
+  "imagem": "imagens_dicas/rj.jpg"
+},
+{
+  "id": 28,
+  "categoria": "Informação útil sobre destinos",
+  "titulo": "Na Chapada, o horário define tudo",
+  "descricao": "Na Chapada Diamantina, os horários influenciam diretamente a experiência. Trilhas começam muito cedo por segurança e conforto. O sol forte dificulta caminhadas longas. Guias organizam saídas ao amanhecer. Cachoeiras ficam mais vazias pela manhã. O clima muda rapidamente. O retorno costuma acontecer antes do entardecer. A iluminação natural define a beleza dos cenários. Planejar atrasos pode gerar riscos. Internet é limitada em muitas áreas. O sinal de celular é instável. Avisar alguém sobre o roteiro é importante. Levar água suficiente é essencial. Alimentação precisa ser planejada. O tempo manda no ritmo. A natureza impõe respeito. Flexibilidade evita frustração. Seguir orientações locais garante segurança. O dia termina cedo. A Chapada ensina planejamento e humildade.",
+  "imagem": "imagens_dicas/chapada-diamantina-.jpg"
+},
+{
+  "id": 29,
+  "categoria": "Informação útil sobre destinos",
+  "titulo": "Em Gramado, o fluxo muda nos fins de semana",
+  "descricao": "Em Gramado, o movimento aumenta bastante aos fins de semana e feriados. Restaurantes ficam cheios rapidamente. Filas para atrações são comuns após as dez da manhã. Passeios rendem mais durante a semana. O centro concentra grande parte do fluxo turístico. Caminhar cedo evita aglomerações. Reservas antecipadas fazem diferença. O clima pode esfriar de repente. Nevoeiro aparece com frequência pela manhã. Roupas quentes são necessárias mesmo fora do inverno. O trânsito fica lento em horários de pico. Estacionamento é limitado no centro. Optar por deslocamentos a pé ajuda. Cafés ficam mais tranquilos no início do dia. À noite, a cidade fica movimentada. Luzes e eventos atraem visitantes. Planejar horários melhora a experiência. O ritmo é organizado, mas intenso. Gramado exige planejamento prévio. Quem se antecipa aproveita melhor.",
+  "imagem": "imagens_dicas/gramado-.jpg"
+},
+{
+  "id": 30,
+  "categoria": "Dica prática de viagem",
+  "titulo": "A maré define o melhor horário em Maceió",
+  "descricao": "Em Maceió, a maré influencia diretamente a experiência nas praias. Piscinas naturais só aparecem na maré baixa. Consultar a tábua de marés é essencial. Pela manhã, o mar costuma estar mais calmo. Passeios de jangada dependem do horário certo. À tarde, o nível do mar sobe rapidamente. Fotos ficam melhores com maré baixa. Algumas praias mudam completamente ao longo do dia. Caminhadas na areia ficam mais fáceis cedo. Barracas se organizam conforme a maré. Moradores planejam o dia com base nisso. Ignorar a maré pode frustrar expectativas. O mar muda o cenário. Planejamento evita erros comuns. O azul intenso aparece no horário certo. A natureza dita o roteiro. Flexibilidade é chave. O tempo certo transforma o passeio. Maceió recompensa quem se informa. A maré manda.",
+  "imagem": "imagens_dicas/maceio-.jpg"
+},
+{
+  "id": 31,
+  "categoria": "Curiosidade cultural",
+  "titulo": "O buggy é símbolo cultural em Natal",
+  "descricao": "Em Natal, o passeio de buggy vai além do turismo comum. Ele faz parte da identidade local. Bugueiros são guias, fotógrafos e contadores de histórias. O roteiro varia conforme vento e maré. Dunas mudam de forma constantemente. Cada passeio é único. A famosa pergunta com ou sem emoção é tradição. O respeito às normas ambientais é levado a sério. Áreas protegidas exigem autorização. O passeio acontece melhor pela manhã. O calor intenso influencia o trajeto. Protetor solar é indispensável. Óculos e chapéu ajudam. Fotos ganham destaque no fim do percurso. O buggy conecta visitante e paisagem. Conversar com o bugueiro enriquece a experiência. Ele conhece atalhos e histórias locais. O ritmo é ditado pela natureza. O passeio revela o espírito do destino. Natal se entende sobre as dunas.",
+  "imagem": "imagens_dicas/natal-buggy.jpg"
+},
+{
+  "id": 32,
+  "categoria": "Informação útil sobre destinos",
+  "titulo": "Em Bonito, tudo precisa ser agendado",
+  "descricao": "Em Bonito, quase todas as atividades exigem agendamento prévio. O controle de visitantes preserva a natureza. Vagas são limitadas por dia. Chegar sem reserva reduz opções. Flutuações seguem horários rígidos. Guias acompanham todos os passeios. Cancelamentos são raros. O planejamento começa antes da viagem. Agências organizam o roteiro completo. Atrasos comprometem o dia inteiro. Transporte precisa ser pontual. Equipamentos são fornecidos no local. O respeito às regras é obrigatório. Fotos subaquáticas seguem normas. O ritmo é organizado e controlado. A preservação vem em primeiro lugar. O resultado é uma experiência única. A água cristalina depende disso. Bonito ensina turismo consciente. Organização garante a magia.",
+  "imagem": "imagens_dicas/bonito.jpg"
 }
-
 ]
