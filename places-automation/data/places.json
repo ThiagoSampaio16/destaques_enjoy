@@ -1,0 +1,622 @@
+[
+  {
+    "id": "cine-methropol-ssa",
+    "name": "Saladearte Cine Methropol",
+    "categories": [
+      "entretenimento",
+      "cinema"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -12.9896,
+      "lon": -38.5255,
+      "city": "Salvador",
+      "state": "BA",
+      "country": "Brasil",
+      "address": "Av. Sete de Setembro, 2731 - Vitória, Salvador - BA"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Pago",
+    "tags": [
+      "Cinema de Arte",
+      "Cultura",
+      "Lazer"
+    ],
+    "openingHours": "14:00 - 22:00",
+    "contact": {},
+    "wikipediaUrl": "",
+    "googleMapsUrl": "https://maps.google.com/?q=Saladearte+Cine+Methropol"
+  },
+  {
+    "id": "beach-park-ce",
+    "name": "Beach Park",
+    "categories": [
+      "parque-aquatico",
+      "lazer"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -3.8441,
+      "lon": -38.3892,
+      "city": "Aquiraz",
+      "state": "CE",
+      "country": "Brasil",
+      "address": "Rua Porto das Dunas, 2734 - Porto das Dunas, Aquiraz - CE"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Caro",
+    "tags": [
+      "Diversão",
+      "Família",
+      "Piscina"
+    ],
+    "openingHours": "11:00 - 17:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Beach_Park",
+    "googleMapsUrl": "https://maps.google.com/?q=Beach+Park+Fortaleza"
+  },
+  {
+    "id": "beto-carrero-world",
+    "name": "Beto Carrero World",
+    "categories": [
+      "parque-de-diversoes",
+      "lazer"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -26.8028,
+      "lon": -48.6189,
+      "city": "Penha",
+      "state": "SC",
+      "country": "Brasil",
+      "address": "Rua Inácio Francisco de Souza, 1597 - Praia de Armação, Penha - SC"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Caro",
+    "tags": [
+      "Aventura",
+      "Parque Temático",
+      "Turismo"
+    ],
+    "openingHours": "09:00 - 18:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Beto_Carrero_World",
+    "googleMapsUrl": "https://maps.google.com/?q=Beto+Carrero+World"
+  },
+  {
+    "id": "d-edge-sp",
+    "name": "D-Edge",
+    "categories": [
+      "boate",
+      "casa-noturna"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -23.5262,
+      "lon": -46.6681,
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "address": "Av. Olavo Fontoura, 1209 - Barra Funda, São Paulo - SP"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Caro",
+    "tags": [
+      "Música Eletrônica",
+      "Noite",
+      "Design"
+    ],
+    "openingHours": "23:00 - 06:00",
+    "contact": {},
+    "wikipediaUrl": "",
+    "googleMapsUrl": "https://maps.google.com/?q=D-Edge+Sao+Paulo"
+  },
+  {
+    "id": "wet-n-wild-sp",
+    "name": "Wet 'n Wild",
+    "categories": [
+      "parque-aquatico",
+      "lazer"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -23.1347,
+      "lon": -46.9442,
+      "city": "Itupeva",
+      "state": "SP",
+      "country": "Brasil",
+      "address": "Rodovia dos Bandeirantes, km 72, Itupeva - SP"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 4,
+    "price_level": "Pago",
+    "tags": [
+      "Tobogãs",
+      "Diversão",
+      "Verão"
+    ],
+    "openingHours": "10:00 - 17:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Wet_%27n_Wild",
+    "googleMapsUrl": "https://maps.google.com/?q=Wet+n+Wild+Itupeva"
+  },
+  {
+    "id": "hopari-hari-sp",
+    "name": "Hopi Hari",
+    "categories": [
+      "parque-de-diversoes",
+      "lazer"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -23.1111,
+      "lon": -47.0055,
+      "city": "Vinhedo",
+      "state": "SP",
+      "country": "Brasil",
+      "address": "Rodovia dos Bandeirantes, km 72, Vinhedo - SP"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 4,
+    "price_level": "Pago",
+    "tags": [
+      "Montanha Russa",
+      "Família",
+      "Aventura"
+    ],
+    "openingHours": "11:00 - 19:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Hopi_Hari",
+    "googleMapsUrl": "http://googleusercontent.com/maps.google.com/7"
+  },
+  {
+    "id": "blue-park-pr",
+    "name": "Blue Park Foz",
+    "categories": [
+      "parque-aquatico",
+      "lazer"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -25.5689,
+      "lon": -54.5502,
+      "city": "Foz do Iguaçu",
+      "state": "PR",
+      "country": "Brasil",
+      "address": "Rua das Missões, 2490 - Vila Yolanda, Foz do Iguaçu - PR"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Pago",
+    "tags": [
+      "Praia Termal",
+      "Ondas",
+      "Diversão"
+    ],
+    "openingHours": "10:00 - 18:00",
+    "contact": {},
+    "wikipediaUrl": "",
+    "googleMapsUrl": "http://googleusercontent.com/maps.google.com/8"
+  },
+  {
+    "id": "warung-beach-club-sc",
+    "name": "Warung Beach Club",
+    "categories": [
+      "boate",
+      "casa-noturna"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -26.9608,
+      "lon": -48.6272,
+      "city": "Itajaí",
+      "state": "SC",
+      "country": "Brasil",
+      "address": "Av. José Medeiros Vieira, 350 - Praia Brava, Itajaí - SC"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Caro",
+    "tags": [
+      "Música Eletrônica",
+      "Beira-mar",
+      "Balada"
+    ],
+    "openingHours": "22:00 - 07:00",
+    "contact": {},
+    "wikipediaUrl": "",
+    "googleMapsUrl": "http://googleusercontent.com/maps.google.com/9"
+  },
+  {
+    "id": "cine-marambaia-rj",
+    "name": "Cine Casal Musehum",
+    "categories": [
+      "entretenimento",
+      "cinema"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -22.9841,
+      "lon": -43.2033,
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "country": "Brasil",
+      "address": "Av. Epitácio Pessoa, 35 - Ipanema, Rio de Janeiro - RJ"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 4,
+    "price_level": "Pago",
+    "tags": [
+      "Cinema",
+      "Cultura",
+      "Ipanema"
+    ],
+    "openingHours": "15:00 - 22:00",
+    "contact": {},
+    "wikipediaUrl": "",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador0"
+  },
+  {
+    "id": "rio-water-planet-rj",
+    "name": "Rio Water Planet",
+    "categories": [
+      "parque-aquatico",
+      "lazer"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -22.9936,
+      "lon": -43.4686,
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "country": "Brasil",
+      "address": "Estrada dos Bandeirantes, 24000 - Vargem Grande, Rio de Janeiro - RJ"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 4,
+    "price_level": "Pago",
+    "tags": [
+      "Natureza",
+      "Tobogãs",
+      "Piscina"
+    ],
+    "openingHours": "10:00 - 17:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Rio_Water_Planet",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador1"
+  },
+  {
+    "id": "cine-belas-artes-sp",
+    "name": "Petra Belas Artes",
+    "categories": [
+      "entretenimento",
+      "cinema"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -23.5554,
+      "lon": -46.6628,
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "address": "Rua da Consolação, 2423 - Consolação, São Paulo - SP"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Pago",
+    "tags": [
+      "Cult",
+      "Cinema de Rua",
+      "Clássicos"
+    ],
+    "openingHours": "13:00 - 22:30",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Cine_Belas_Artes",
+    "googleMapsUrl": "http://googleusercontent.com/maps.google.com/9"
+  },
+  {
+    "id": "green-valley-sc",
+    "name": "Green Valley",
+    "categories": [
+      "boate",
+      "casa-noturna"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -26.9801,
+      "lon": -48.6505,
+      "city": "Camboriú",
+      "state": "SC",
+      "country": "Brasil",
+      "address": "Rua Antônio Lopes Gonçalves Bastos, 1083 - Rio Pequeno, Camboriú - SC"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Caro",
+    "tags": [
+      "Eletrônica",
+      "Open Air",
+      "Melhor do Mundo"
+    ],
+    "openingHours": "23:00 - 07:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Green_Valley",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador0"
+  },
+  {
+    "id": "thermas-dos-laranjais-sp",
+    "name": "Thermas dos Laranjais",
+    "categories": [
+      "parque-aquatico",
+      "lazer"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -20.9168,
+      "lon": -48.9189,
+      "city": "Olímpia",
+      "state": "SP",
+      "country": "Brasil",
+      "address": "Av. do Folclore, 1543 - Santa Efigênia, Olímpia - SP"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Pago",
+    "tags": [
+      "Águas Termais",
+      "Resort",
+      "Tobogãs"
+    ],
+    "openingHours": "09:00 - 17:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Thermas_dos_Laranjais",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador1"
+  },
+  {
+    "id": "parque-da-monica-sp",
+    "name": "Parque da Mônica",
+    "categories": [
+      "parque-de-diversoes",
+      "lazer"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -23.6826,
+      "lon": -46.6985,
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "address": "Av. das Nações Unidas, 22540 - Jurubatuba, São Paulo - SP"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Caro",
+    "tags": [
+      "Crianças",
+      "Turma da Mônica",
+      "Indoor"
+    ],
+    "openingHours": "11:00 - 18:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Parque_da_M%C3%B4nica",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador2"
+  },
+  {
+    "id": "cine-odeon-rj",
+    "name": "Cine Odeon - CCLSR",
+    "categories": [
+      "entretenimento",
+      "cinema"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -22.9116,
+      "lon": -43.1762,
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "country": "Brasil",
+      "address": "Praça Floriano, 7 - Centro, Rio de Janeiro - RJ"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Pago",
+    "tags": [
+      "Histórico",
+      "Cinelândia",
+      "Cinema"
+    ],
+    "openingHours": "14:00 - 21:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Cine_Odeon",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador3"
+  },
+  {
+    "id": "p12-jurere-sc",
+    "name": "P12 Parador Internacional",
+    "categories": [
+      "boate",
+      "casa-noturna"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -27.4414,
+      "lon": -48.5032,
+      "city": "Florianópolis",
+      "state": "SC",
+      "country": "Brasil",
+      "address": "Servidão José Cardoso de Oliveira, s/n - Jurerê Internacional, Florianópolis - SC"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 4,
+    "price_level": "Caro",
+    "tags": [
+      "Beach Club",
+      "Day Party",
+      "Luxo"
+    ],
+    "openingHours": "10:00 - 22:00",
+    "contact": {},
+    "wikipediaUrl": "",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador4"
+  },
+  {
+    "id": "mirabilandia-pe",
+    "name": "Mirabilandia",
+    "categories": [
+      "parque-de-diversoes",
+      "lazer"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -8.0336,
+      "lon": -34.8724,
+      "city": "Olinda",
+      "state": "PE",
+      "country": "Brasil",
+      "address": "Av. Prof. Andrade Bezerra, 1285 - Salgadinho, Olinda - PE"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 4,
+    "price_level": "Pago",
+    "tags": [
+      "Montanha Russa",
+      "Noroeste",
+      "Família"
+    ],
+    "openingHours": "14:00 - 20:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Mirabilandia_(Brasil)",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador5"
+  },
+  {
+    "id": "acquamamania-es",
+    "name": "Acquamania",
+    "categories": [
+      "parque-aquatico",
+      "lazer"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -20.6277,
+      "lon": -40.4851,
+      "city": "Guarapari",
+      "state": "ES",
+      "country": "Brasil",
+      "address": "Rodovia do Sol, Km 37, Guarapari - ES"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 4,
+    "price_level": "Pago",
+    "tags": [
+      "Verão",
+      "Piscina",
+      "Espírito Santo"
+    ],
+    "openingHours": "10:00 - 17:00",
+    "contact": {},
+    "wikipediaUrl": "",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador6"
+  },
+  {
+    "id": "cine-capitólio-rs",
+    "name": "Cinemateca Capitólio",
+    "categories": [
+      "entretenimento",
+      "cinema"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -30.0384,
+      "lon": -51.2241,
+      "city": "Porto Alegre",
+      "state": "RS",
+      "country": "Brasil",
+      "address": "Rua Demétrio Ribeiro, 1085 - Centro Histórico, Porto Alegre - RS"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 5,
+    "price_level": "Pago",
+    "tags": [
+      "Patrimônio Histórico",
+      "Cinemateca",
+      "Cultura"
+    ],
+    "openingHours": "09:00 - 21:00",
+    "contact": {},
+    "wikipediaUrl": "https://pt.wikipedia.org/wiki/Cine_Theatro_Capit%C3%B3lio",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador7"
+  },
+  {
+    "id": "clube-chalezinho-mg",
+    "name": "Clube Chalezinho",
+    "categories": [
+      "boate",
+      "casa-noturna"
+    ],
+    "source": "local",
+    "location": {
+      "lat": -19.9702,
+      "lon": -43.9358,
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "country": "Brasil",
+      "address": "Av. Professor Mário Werneck, 530 - Buritis, Belo Horizonte - MG"
+    },
+    "description": "",
+    "ai_generated_description": true,
+    "medias": [],
+    "rating": 4,
+    "price_level": "Caro",
+    "tags": [
+      "Hits",
+      "Noite Mineira",
+      "Balada"
+    ],
+    "openingHours": "21:00 - 05:00",
+    "contact": {},
+    "wikipediaUrl": "",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farol+da+Barra+Salvador8"
+  }
+]
