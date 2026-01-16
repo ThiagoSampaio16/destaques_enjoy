@@ -1,153 +1,110 @@
-import fs from "fs";
-import axios from "axios";
-import dotenv from "dotenv";
-import path from "path";
-import { fileURLToPath } from "url";
+const fs = require("fs");
+const axios = require("axios");
+const dotenv = require("dotenv");
 
-/* ===============================
-   CONFIGURAÇÃO DO DOTENV (FIX)
-================================ */
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+dotenv.config();
 
-dotenv.config({
-  path: path.resolve(__dirname, "../.env")
-});
+// DEBUG
+console.log("GROQ_API_KEY:", process.env.GROQ_API_KEY ? "OK" : "NÃO ENCONTRADA");
 
-console.log("GROQ_API_KEY:", process.env.GROQ_API_KEY);
-
-/* ===============================
-   CONSTANTES
-================================ */
-const placesPath = path.resolve(__dirname, "../data/places.json");
-
-const GROQ_API_KEY = process.env.GROQ_API_KEY;
-const GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions";
-
-/* ===============================
-   LEITURA SEGURA DO JSON
-================================ */
-let places = [];
-
-try {
-  const fileContent = fs.readFileSync(placesPath, "utf-8");
-
-  if (fileContent.trim()) {
-    places = JSON.parse(fileContent);
-  } else {
-    console.warn("⚠️ places.json está vazio. Usando array vazio.");
-    places = [];
-  }
-} catch (error) {
-  console.error("❌ Erro ao ler places.json:", error.message);
+if (!process.env.GROQ_API_KEY) {
+  console.error("❌ GROQ_API_KEY não encontrada no .env");
   process.exit(1);
 }
 
-/* ===============================
-   FUNÇÕES
-================================ */
-function isDescriptionLong(description) {
-  return description && description.trim().length > 100;
+const placesPath = "data/places.json";
+
+// Verificação de arquivo
+if (!fs.existsSync(placesPath)) {
+  console.error("❌ data/places.json não existe");
+  process.exit(1);
 }
 
-async function generateDescription(place) {
-  const prompt = `Gere uma descrição detalhada e atrativa para o lugar turístico "${place.name}" localizado em ${place.location.city}, ${place.location.state}.
+const fileContent = fs.readFileSync(placesPath, "utf-8").trim();
 
-Categorias: ${place.categories.join(", ")}
+if (!fileContent) {
+  console.error("❌ places.json está vazio");
+  process.exit(1);
+}
+
+const places = JSON.parse(fileContent);
+
+console.log(`📦 Lugares carregados: ${places.length}`);
+
+const GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions";
+
+async function generateDescription(place) {
+  const prompt = `
+Gere uma descrição detalhada e atrativa para o lugar "${place.name}" localizado em ${place.location.city}, ${place.location.state}.
+
+Categoria: ${place.category}
+Subcategoria: ${place.subcategory}
 Tags: ${place.tags.join(", ")}
 
-A descrição deve:
-- Ter entre 150-250 palavras
-- Ser informativa e envolvente
-- Destacar características principais
-- Ser adequada para um aplicativo de turismo
-- Estar em português do Brasil
-
-Retorne apenas a descrição, sem introduções ou explicações adicionais.`;
+Regras:
+- 150 a 250 palavras
+- Português do Brasil
+- Texto envolvente para app de turismo
+- Retorne SOMENTE a descrição
+`;
 
   try {
     const response = await axios.post(
-      GROQ_API_URL,
+      "https://api.groq.com/openai/v1/chat/completions",
       {
-        model: "mixtral-8x7b-32768",
+        model: "llama3-70b-8192",
         messages: [
-          {
-            role: "user",
-            content: prompt
-          }
+          { role: "user", content: prompt }
         ],
         temperature: 0.7,
-        max_tokens: 300
+        max_tokens: 512   // ← VALOR SEGURO
       },
       {
         headers: {
-          Authorization: `Bearer ${GROQ_API_KEY}`,
+          Authorization: `Bearer ${process.env.GROQ_API_KEY}`,
           "Content-Type": "application/json"
         }
       }
     );
 
     return response.data.choices[0].message.content.trim();
-  } catch (error) {
-    console.log(
-      `❌ Erro ao gerar descrição para ${place.name}: ${error.response?.status || ""} ${error.message}`
+  } catch (err) {
+    console.error(
+      `❌ ${place.name}:`,
+      err.response?.data || err.message
     );
     return null;
   }
 }
 
-/* ===============================
-   PROCESSO PRINCIPAL
-================================ */
-async function generateAllDescriptions() {
-  if (!GROQ_API_KEY) {
-    console.error("❌ GROQ_API_KEY não encontrada no .env");
-    process.exit(1);
-  }
-
-  console.log("\n🚀 Iniciando geração de descrições com Groq...\n");
+(async function run() {
+  console.log("🚀 Iniciando geração de descrições...\n");
 
   let updated = 0;
-  let skipped = 0;
 
   for (const place of places) {
-    const hasLongDescription = isDescriptionLong(place.description);
-
-    if (hasLongDescription) {
-      console.log(`⏭️  ${place.name} - Descrição já existe (mantida)`);
-      skipped++;
+    if (place.description && place.description.length > 100) {
+      console.log(`⏭️  ${place.name} (já tem descrição)`);
       continue;
     }
 
     console.log(`⏳ Gerando descrição para: ${place.name}`);
 
-    const description = await generateDescription(place);
+    const desc = await generateDescription(place);
 
-    if (description) {
-      place.description = description;
-      place.ai_generated_description = true;
+    if (desc) {
+      place.description = desc;
+      place.ai_generated = true;
       updated++;
-      console.log(`✅ Descrição gerada com sucesso!\n`);
+      console.log("✅ OK\n");
     } else {
-      console.log(`⚠️  Falha ao gerar descrição\n`);
+      console.log("⚠️  Falhou\n");
     }
 
-    // Delay para evitar rate limit
-    await new Promise(resolve => setTimeout(resolve, 1000));
+    await new Promise(r => setTimeout(r, 1200));
   }
 
   fs.writeFileSync(placesPath, JSON.stringify(places, null, 2));
-
-  console.log("\n=== RESUMO ===");
+  console.log("💾 Arquivo salvo");
   console.log(`✅ Descrições geradas: ${updated}`);
-  console.log(`⏭️  Descrições mantidas: ${skipped}`);
-  console.log("💾 Arquivo atualizado com sucesso!");
-}
-
-/* ===============================
-   EXECUÇÃO
-================================ */
-generateAllDescriptions().catch(error => {
-  console.error("❌ Erro fatal:", error.message);
-  process.exit(1);
-});
+})();
